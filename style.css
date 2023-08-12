@@ -141,7 +141,8 @@ h5{
     text-decoration: none;
     color: beige;
 }
-@media (max-width: 740px) {
+
+  @media (max-width: 1025px) {
     .header{
         background-color: bisque;
         width: 100%;
@@ -149,31 +150,31 @@ h5{
         margin: 0;
     }
     #programmer-logo{
-        width: 100px;
-        height: 100px;
+        width: 200px;
+        height: 200px;
         border-radius: 50%;
         position: relative;
-        left: 37%;
+        left: 38%;
     }
     .heading{
         text-align: center;
         font-family: 'Caveat', cursive;
         font-family: 'Libre Baskerville', serif;
         color: rgb(236, 162, 64);
-        font-size: 60%;
+        font-size: 80%;
     }
     .me{
         text-align: center;
         font-family: 'Caveat', cursive;
         font-family: 'Libre Baskerville', serif;
         color: rgb(236, 162, 64);
-        font-size: 60%;
+        font-size: 80%;
     }
     #picture{
-        width: 50px;
-        height: 50px;
+        width: 150px;
+        height: 150px;
         border-radius: 50%;
-        margin-left:45%;
+        margin-left:42%;
         margin-top: 10%;
     }
     .salutation{
@@ -182,7 +183,7 @@ h5{
         font-family: 'Caveat', cursive;
         font-family: 'Libre Baskerville', serif;
         margin-top: 5%;
-        font-size: 60%;
+        font-size: 80%;
     
     }
     .intro{
@@ -190,7 +191,7 @@ h5{
         font-family: 'Libre Baskerville', serif;
         width: 30%;
         margin:auto;
-        font-size: 50%;
+        font-size: 70%;
     }
     h2{
         text-align: center;
@@ -198,26 +199,26 @@ h5{
         font-family: 'Caveat', cursive;
         font-family: 'Libre Baskerville', serif;
         margin-top: 10%;
-        font-size: 60%;
+        font-size: 80%;
     }
     #developer{
         width: 60px;
         height: 60px;
         border-radius: 15%;
         float: left;
-        font-size: 50%;
+        font-size: 70%;
     }
     h3{
         
         font-family: 'Libre Baskerville', serif;
         color: rgb(236, 162, 64);
-        font-size: 40%;
+        font-size: 60%;
     
     }
     p{
         
         font-family: 'Libre Baskerville', serif;
-        font-size: 40%;
+        font-size: 60%;
         
     }
     #basketball{
@@ -251,7 +252,7 @@ h5{
     .copyright{
         text-align: center;
         font-family: 'Libre Baskerville', serif;
-        font-size: 40%;
+        font-size: 60%;
     }
     .touch{
         text-align: center;
@@ -265,7 +266,7 @@ h5{
         border-radius: 8px;
         font-family: "Montserrat", sans-serif;
         color: #ffffff;
-        font-size: 10px;
+        font-size: 20px;
         padding: 5px 10px 5px 10px;
         text-decoration: none;
         margin-top: 10%;
@@ -297,5 +298,7 @@ h5{
     
 
     
+    
+  }
     
   }
